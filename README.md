@@ -2,7 +2,7 @@
 # Alkyne Android App
 
 ## Overview
-To deepen my grasp on Data Structures and Algorithms, I crafted an Android application titled **Alkyne** using the Flutter framework. 
+"Alkyne" is an Android app developed in Flutter, designed to guide users through chemical conversions of organic compounds. By leveraging the principles of Data Structures and the Dijkstra algorithm, it identifies the optimal sequence of reactions to achieve the desired transformation. Dive into the code to see how algorithms and chemistry unite for a user-friendly experience.
 
 ## Functionality
 Alkyne is designed to focus on chemical conversions. It presents users with a series of reactions to transform a given organic compound into a desired one.
